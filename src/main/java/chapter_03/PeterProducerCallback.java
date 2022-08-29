@@ -20,5 +20,4 @@ public class PeterProducerCallback implements Callback { //콜백을 사용하�
                     , metadata.offset(), record.key(), record.value());
         }
     }
-
 }
