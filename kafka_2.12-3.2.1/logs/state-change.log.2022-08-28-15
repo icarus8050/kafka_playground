@@ -1,0 +1,2 @@
+[2022-08-28 15:35:36,963] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set(0) for 0 partitions (state.change.logger)
+[2022-08-28 15:49:47,967] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set() for 0 partitions (state.change.logger)
